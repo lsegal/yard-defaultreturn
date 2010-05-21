@@ -18,4 +18,8 @@ without any return type defined inside the class/module:
 
 ## Install
 
+    gem install yard-defaultreturn
+
+or checkout source and
+
     rake install
