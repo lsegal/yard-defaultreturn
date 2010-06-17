@@ -1,7 +1,7 @@
 SPEC = Gem::Specification.new do |s|
   s.name          = "yard-defaultreturn"
   s.summary       = "YARD plugin to add default return types to methods in a namespace." 
-  s.version       = "1.0.0"
+  s.version       = "1.0.1"
   s.date          = "2010-05-21"
   s.author        = "Loren Segal"
   s.email         = "lsegal@soen.ca"
